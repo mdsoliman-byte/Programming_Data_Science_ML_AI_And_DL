@@ -638,3 +638,61 @@ Core Logic + Engineering Design + Data Science প্রয়োগ + Performance 
 ---
 
 # ✅ ব্যবহার উদাহরণ
+
+
+
+30-Day Programming + Software Engineering + Data Science Learning Plan (Bangla)
+
+নির্দেশনা
+
+এই লিস্ট অনুযায়ী তুমি প্রতিদিন ৩টি topic শিখবে। প্রথমে logic এবং concept focus করো, programming language syntax পরে দেখো। প্রতিদিন শেষে summary লিখে নাও। ২–৩ দিন পরে আগের topic review করো।
+
+
+---
+
+Day	Topics (3 per day)
+
+1	Problem Solving & Algorithm Thinking, Input/Output Basics, Variables & Data Types
+2	Operators (Arithmetic, Logical, Comparison), Conditional Statements (If-Else), Nested Conditionals
+3	Loops (For, While), Loop Control (Break, Continue), Iteration over Data Structures
+4	Functions & Parameters, Return Values, Scope & Lifetime of Variables
+5	Recursion Basics, Base & Recursive Cases, Recursive vs Iterative Thinking
+6	Arrays / Lists, Indexing & Traversal, Multi-Dimensional Arrays
+7	Strings & Text Handling, String Operations, String vs Char Arrays
+8	Dictionaries / Maps, Key-Value Storage, Lookups & Updates
+9	Sets & Unique Collections, Set Operations, Use Cases in Data Science
+10	Stack & Queue Basics, Push/Pop & Enqueue/Dequeue, Real-Life Analogy
+11	Modular Programming, Code Reusability, File Organization & Importing
+12	Error & Exception Handling, Try-Catch Basics, Debugging Techniques
+13	Boolean Logic & Truth Tables, Complex Conditions, Short-Circuit Evaluation
+14	Sorting & Searching Basics, Linear Search, Binary Search Concepts
+15	Algorithm Efficiency, Time Complexity (Big-O Basics), Space Complexity
+16	Abstraction & Encapsulation, Data Hiding, Why Use Classes/Objects
+17	Object-Oriented Programming Basics, Classes & Objects, Methods & Properties
+18	Inheritance & Polymorphism, Method Overriding, Interfaces/Abstract Classes
+19	Dependency Injection Basics, Loose Coupling, Advantages in SE
+20	Software Design Principles (SOLID), Single Responsibility, Open/Closed Principle
+21	System Thinking, Flow Diagrams, Understanding Data Flow in Apps
+22	State Management Basics, Mutable vs Immutable State, Session & Cache Concept
+23	Logging & Monitoring, Debugging at System Level, Error Tracking
+24	Unit Testing Basics, Writing Test Cases, Edge Cases & Test Coverage
+25	Modular Data Pipelines, Data Cleaning, Aggregation & Transformation
+26	Performance Optimization, Memory Management, Efficient Data Structures
+27	Recap of Core Concepts, Refactoring Bad Code, Improving Readability
+28	Integration of Concepts, Small Project Design, Combining Modules & Data
+29	Real-Life Application Case Study, System Design Overview, Data Flow Analysis
+30	Mini Project Challenge, Review & Debug, Final Summary & Mastery Check
+
+
+
+---
+
+Notes / Tips
+
+প্রতিদিন শিখার পরে thought exercises করো।
+
+Concept ও logic focus করো, syntax পরে দেখো।
+
+প্রতিদিনের শেষে summary লিখে রাখো।
+
+আগের টপিকগুলি সপ্তাহে একবার review করো।
